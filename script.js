@@ -42,7 +42,7 @@ highlightListItems();
 /* ======================================= */
 // --- Tasks 5, 6, 7 & 8: Toggle Functionality ---
 // Define the functions (e.g., toggleStatus, createTimestamp) and event listeners
-// here to handle the click event on the toggleButton [6, 7].
+// here to handle the click event on the toggleButton [6, 7]. HELLO
 function createTimestamp() {
   const span = document.createElement("span");
   span.innerHTML = " Last updated: " + new Date().toLocaleTimeString();
